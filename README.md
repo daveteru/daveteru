@@ -5,7 +5,7 @@ my name is Teru , Full Stack Software Engineer with design (UI/UX/Graphics/Motio
 ## Stack
 
 ### Tech
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,postgres,postman,prisma,nodejs,express,tailwind,docker,vercel,git,vite&perline=5)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,postgres,postman,prisma,nodejs,express,tailwind,docker,vercel,git,vite&perline=8)
 
 ### Creative
 ![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae,figma,)
