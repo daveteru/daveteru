@@ -1,6 +1,6 @@
 # Hello visitor
 
-my name is Teru , a Designer turned Full Stack Software Engineer. i like creating interactive projects. creating ideas and turning them to life.
+my name is Teru , Full Stack Software Engineer with design (UI/UX/Graphics/Motion) Background. i like creating interactive projects. creating ideas and turning them to life.
 
 ## Stack
 
