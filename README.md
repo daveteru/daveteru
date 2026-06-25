@@ -5,7 +5,7 @@ my name is Teru , a Designer turned Full Stack Software Engineer. i like creatin
 ## Stack
 
 ### Tech
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,postgres,postman,prisma,nodejs,express,tailwind,docker,vercel,git,vite)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,postgres,postman,prisma,nodejs,express,tailwind,docker,vercel,git,vite&perline=5)
 
 ### Creative
 ![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae,figma,)
